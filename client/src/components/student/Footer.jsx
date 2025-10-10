@@ -29,7 +29,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <p className='py-4 text-center text-xs md:text-sm text-white/60'>Edemy | Developed by <strong>Taukir Alam</strong></p>
+      <p className='py-4 text-center text-xs md:text-sm text-white/60'>Edemy | Developed by <strong>Taukir Alam  </strong> | <strong>Minhaj Alam</strong> | <strong>Md Equbal</strong> | <strong>Irafn Zaidy</strong> | <strong>Irfan Idrisi</strong></p>
     </footer >
   )
 }
